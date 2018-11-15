@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Atmel Studio Solution File, Format Version 11.00
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{E66E83B9-2572-4076-B26E-6BE79FF3018A}") = "RFID_MQTT_AS", "RFID_MQTT_AS.cppproj", "{A6C082E9-D67D-48BA-B618-132DA317C74B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|AVR = Debug|AVR
+		Release|AVR = Release|AVR
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A6C082E9-D67D-48BA-B618-132DA317C74B}.Debug|AVR.ActiveCfg = Debug|AVR
+		{A6C082E9-D67D-48BA-B618-132DA317C74B}.Debug|AVR.Build.0 = Debug|AVR
+		{A6C082E9-D67D-48BA-B618-132DA317C74B}.Release|AVR.ActiveCfg = Release|AVR
+		{A6C082E9-D67D-48BA-B618-132DA317C74B}.Release|AVR.Build.0 = Release|AVR
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
